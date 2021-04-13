@@ -1,7 +1,14 @@
 # Why is ReLU a Non-Linear Activation function?
 
-* [Click here](https://youtu.be/dD07lnA-Rgk)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=dD07lnA-Rgk" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/dD07lnA-Rgk?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Why is ReLU a Non-Linear Activation function?](http://img.youtube.com/vi/dD07lnA-Rgk/0.jpg)](http://www.youtube.com/watch?v=dD07lnA-Rgk)
 
